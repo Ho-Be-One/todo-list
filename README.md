@@ -11,7 +11,7 @@ Prise en main avancée du framework **vuejs**: réalisation d'une to do list
 ![todo-list](/todo.png)
 
 ### Lien vers l'application 
-[todo-list]([/todo.png](https://ho-be-one.github.io/todo-list/index.html))
+[todo-list](https://ho-be-one.github.io/todo-list/dist/index.html)
 
 
 
